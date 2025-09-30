@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">📙  first period student of computing sciences at CESAR SCHOOL<br>📚 - interest in the area of ​​artificial intelligence</p>
+<p align="left">📙  second period student of computing sciences at CESAR SCHOOL<br>📚 - interest in the area of ​​artificial intelligence</p>
 
 ###
 
